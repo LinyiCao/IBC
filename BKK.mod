@@ -1,4 +1,4 @@
-/* This model follows Backus, Kehoe and Kydland (1992). It is a two-country,
+/* This model follows Backus, Kehoe and Kydland (1993). It is a two-country,
 two-intermediate good economy with TFP shocks at each country.
 A typical IBC setup.
 */
